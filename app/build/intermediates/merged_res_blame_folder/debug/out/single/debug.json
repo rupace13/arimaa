@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_minimalistdark.jpg.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\minimalistdark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_newset.png.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\newset.png"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_letter.png.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\letter.png"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_minimalistlight.jpg.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\minimalistlight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_traditional.jpg.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\traditional.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moveable.png.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\moveable.png"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stone.jpg.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\stone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_defaultset.png.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\defaultset.png"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_held.png.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\drawable-hdpi\\held.png"
+    },
+    {
+        "merged": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

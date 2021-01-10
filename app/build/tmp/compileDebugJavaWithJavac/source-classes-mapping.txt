@@ -1,0 +1,46 @@
+email/com/square/game/arimaa/GameEngine.java
+ email.com.square.game.arimaa.GameEngine
+ email.com.square.game.arimaa.GameEngine$1
+ email.com.square.game.arimaa.GameEngine$GameState
+email/com/square/game/arimaa/PlaceMove.java
+ email.com.square.game.arimaa.PlaceMove
+email/com/square/game/arimaa/Board.java
+ email.com.square.game.arimaa.Board
+email/com/square/game/arimaa/SettingsActivity.java
+ email.com.square.game.arimaa.SettingsActivity
+email/com/square/game/arimaa/BuildConfig.java
+ email.com.square.game.arimaa.BuildConfig
+email/com/square/game/arimaa/ActionList.java
+ email.com.square.game.arimaa.ActionList
+email/com/square/game/arimaa/GameAction.java
+ email.com.square.game.arimaa.GameAction
+email/com/square/game/arimaa/BackgroundView.java
+ email.com.square.game.arimaa.BackgroundView
+email/com/square/game/arimaa/MoveAction.java
+ email.com.square.game.arimaa.MoveAction
+email/com/square/game/arimaa/DoneAction.java
+ email.com.square.game.arimaa.DoneAction
+email/com/square/game/arimaa/RemoveAction.java
+ email.com.square.game.arimaa.RemoveAction
+email/com/square/game/arimaa/Piece.java
+ email.com.square.game.arimaa.Piece
+ email.com.square.game.arimaa.Piece$1
+ email.com.square.game.arimaa.Piece$PieceColour
+ email.com.square.game.arimaa.Piece$PieceType
+email/com/square/game/arimaa/MultiMove.java
+ email.com.square.game.arimaa.MultiMove
+email/com/square/game/arimaa/ShiftMove.java
+ email.com.square.game.arimaa.ShiftMove
+ email.com.square.game.arimaa.ShiftMove$1
+ email.com.square.game.arimaa.ShiftMove$Direction
+email/com/square/game/arimaa/GameView.java
+ email.com.square.game.arimaa.GameView
+email/com/square/game/arimaa/GameActivity.java
+ email.com.square.game.arimaa.GameActivity
+ email.com.square.game.arimaa.GameActivity$1
+ email.com.square.game.arimaa.GameActivity$2
+ email.com.square.game.arimaa.GameActivity$3
+email/com/square/game/arimaa/Square.java
+ email.com.square.game.arimaa.Square
+email/com/square/game/arimaa/CpuPlaceMove.java
+ email.com.square.game.arimaa.CpuPlaceMove

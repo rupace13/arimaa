@@ -1,0 +1,142 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+	android:background="#0E0E0E"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    android:layout_gravity="bottom"
+    android:orientation="vertical"
+    android:weightSum="12"
+    tools:context=".GameActivity" 
+    android:configChanges="keyboardHidden|orientation"
+    android:scaleType="fitCenter">
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:text="Arimaa Game"
+		android:textColor="#ffffff"
+		android:textSize="32dp"
+		android:textStyle="bold"
+		android:paddingBottom="150dp"
+		android:gravity="center"/>
+    
+    <LinearLayout
+        android:id="@+id/topsection"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+        android:layout_weight="1"
+	    android:rotation="180" >
+	    
+	    
+       	<Button
+	        android:id="@+id/ubackbutton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+			android:background="#ED5C2E"
+			android:textColor="#ffffff"
+	        android:text="@string/back_button"
+	        android:onClick="backTurn" />
+    
+	    <Button
+	        android:id="@+id/ustatus"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+			android:textColor="#ffffff"
+	        android:background="@android:color/transparent"
+	        android:enabled="false" />
+	    
+	    <Button 
+	        android:id="@+id/udonebutton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+			android:textColor="#ffffff"
+	        android:layout_weight="1"
+			android:background="#ED5C2E"
+	        android:text="@string/done_button"
+	        android:onClick="doneTurn" />
+    
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_weight="10"
+        android:scaleType="fitCenter"
+        android:gravity="center">
+
+        <RelativeLayout
+            android:id="@+id/midsection"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitCenter">
+
+            <email.com.square.game.arimaa.BackgroundView
+                android:id="@+id/board"
+                android:src="@drawable/traditional"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:layout_centerVertical="true" />
+
+            <email.com.square.game.arimaa.GameView
+                android:id="@+id/pieces"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:layout_centerVertical="true" />
+
+        </RelativeLayout>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/botsection"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+        android:layout_weight="1"
+	    android:layout_below="@id/midsection" >
+	    
+       	<Button
+	        android:id="@+id/backbutton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+			android:textColor="#ffffff"
+			android:background="#ED5C2E"
+	        android:text="@string/back_button"
+	        android:onClick="backTurn" />
+    
+	    <Button
+	        android:id="@+id/status"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+			android:textColor="#ffffff"
+	        android:background="@android:color/transparent"
+	        android:enabled="false" />
+	    
+	    <Button 
+	        android:id="@+id/donebutton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+			android:background="#ED5C2E"
+	        android:layout_weight="1"
+			android:textColor="#ffffff"
+	        android:text="@string/done_button"
+	        android:onClick="doneTurn" />
+    
+    </LinearLayout>
+
+</LinearLayout>

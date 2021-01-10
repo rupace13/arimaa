@@ -1,0 +1,104 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\values\\strings_activity_settings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "24,29,34,42,60,61,62,63,64,65,66,67,68,69,70,71,72,73,82",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "703,864,1005,1255,1990,2055,2191,2257,2313,2381,2437,2524,2589,2680,2737,2829,2898,2979,3507",
+                        "endLines": "28,33,41,49,60,61,62,63,64,65,66,67,68,69,70,71,72,73,82",
+                        "endColumns": "19,19,19,19,64,135,65,55,67,55,86,64,90,56,91,68,80,54,60",
+                        "endOffsets": "859,1000,1250,1469,2050,2186,2252,2308,2376,2432,2519,2584,2675,2732,2824,2893,2974,3029,3563"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "50",
+                        "startColumns": "4",
+                        "startOffsets": "1474",
+                        "endColumns": "45",
+                        "endOffsets": "1515"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,18,-1,-1,19,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,4,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,744,-1,-1,809,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,63,-1,-1,67,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,803,-1,-1,872,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "53,54,55,56,57,58,59,74,75,76,77,78,79,80,81,83",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1632,1676,1723,1787,1832,1882,1930,3034,3084,3137,3196,3261,3316,3379,3448,3568",
+                        "endColumns": "43,46,63,44,49,47,59,49,52,58,64,54,62,68,58,59",
+                        "endOffsets": "1671,1718,1782,1827,1877,1925,1985,3079,3132,3191,3256,3311,3374,3443,3502,3623"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,8,14,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,236,403,562",
+                        "endLines": "7,13,18,23",
+                        "endColumns": "17,17,17,17",
+                        "endOffsets": "231,398,557,698"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "84,87",
+                        "startColumns": "4,4",
+                        "startOffsets": "3628,3711",
+                        "endLines": "86,89",
+                        "endColumns": "12,12",
+                        "endOffsets": "3706,3778"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASM\\Documents\\alex\\arimaa android game\\Arimaa\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "51,52",
+                        "startColumns": "4,4",
+                        "startOffsets": "1520,1577",
+                        "endColumns": "56,54",
+                        "endOffsets": "1572,1627"
+                    }
+                }
+            ]
+        }
+    ]
+}

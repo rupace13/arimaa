@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res"/><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\build\generated\res\rs\debug"/><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res"><file name="defaultset" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\defaultset.png" qualifiers="hdpi-v4" type="drawable"/><file name="held" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\held.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="letter" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\letter.png" qualifiers="hdpi-v4" type="drawable"/><file name="minimalistdark" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\minimalistdark.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="minimalistlight" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\minimalistlight.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="moveable" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\moveable.png" qualifiers="hdpi-v4" type="drawable"/><file name="newset" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\newset.png" qualifiers="hdpi-v4" type="drawable"/><file name="stone" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\stone.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="traditional" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\drawable-hdpi\traditional.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="activity_game" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\layout\activity_game.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="pieceset">
+            <item>Traditional</item>
+            <item>Minimalist</item>
+            <item>Letters</item>
+  </string-array><string-array name="pieceset_values">
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+  </string-array><string-array name="backset">
+            <item>Traditional</item>
+            <item>Stone</item>
+            <item>Dark</item>
+            <item>Light</item>
+  </string-array><string-array name="backset_values">
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+  </string-array></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values\colors.xml" qualifiers=""><color name="pale_yellow">#E5E5B7</color></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">4dp</dimen><dimen name="activity_vertical_margin">2dp</dimen></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Arimaa</string><string name="new_option">New Game</string><string name="load_option">Load Game</string><string name="save_option">Save Game</string><string name="settings_option">Settings</string><string name="done_button">Done</string><string name="back_button">Revert</string><string name="twoview_setting">Two Player View</string><string name="pieceset_setting">Piece Graphics</string><string name="backset_setting">Background Graphics</string><string name="status_gold_turn_prefix">GOLD -\u0020</string><string name="status_silver_turn_prefix">SILVER -\u0020</string><string name="status_gold_setup">GOLD\'s Turn</string><string name="status_silver_setup">SILVER\'s Turn</string><string name="status_gold_wins">GOLD WINS</string><string name="status_silver_wins">SILVER WINS</string></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values\strings_activity_settings.xml" qualifiers=""><string name="title_activity_settings">Settings</string><string name="pref_header_general">General</string><string name="pref_title_social_recommendations">Enable social recommendations</string><string name="pref_description_social_recommendations">Recommendations for people to contact based on your message history</string><string name="pref_title_display_name">Display name</string><string name="pref_default_display_name">John Smith</string><string name="pref_title_add_friends_to_messages">Add friends to messages</string><string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array><string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array><string name="pref_header_data_sync">Data &amp; sync</string><string name="pref_title_sync_frequency">Sync frequency</string><string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array><string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array><string name="pref_title_system_sync_settings">System sync settings</string><string name="pref_header_notifications">Notifications</string><string name="pref_title_new_message_notifications">New message notifications</string><string name="pref_title_ringtone">Ringtone</string><string name="pref_ringtone_silent">Silent</string><string name="pref_title_vibrate">Vibrate</string></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"/><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file name="preferences" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/><file name="pref_data_sync" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\xml\pref_data_sync.xml" qualifiers="" type="xml"/><file name="pref_general" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\xml\pref_general.xml" qualifiers="" type="xml"/><file name="pref_headers" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\xml\pref_headers.xml" qualifiers="" type="xml"/><file name="pref_notification" path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\main\res\xml\pref_notification.xml" qualifiers="" type="xml"/></source><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\build\generated\res\rs\debug"/><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\ASM\Documents\alex\arimaa android game\Arimaa\app\src\debug\res"/></dataSet><mergedItems/></merger>
